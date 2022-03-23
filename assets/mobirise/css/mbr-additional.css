@@ -620,10 +620,69 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-s2ShueGMhK {
-  background-image: url("../../../assets/images/bnner-landing-1920x1080.png");
+  background-image: url("../../../assets/images/silce-grande-1548x600.png");
 }
 .cid-s2ShueGMhK .mbr-text,
 .cid-s2ShueGMhK .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-s5oBkv2Hej {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #0050a1;
+}
+.cid-s5oBkv2Hej .mbr-text,
+.cid-s5oBkv2Hej .typed-text,
+.cid-s5oBkv2Hej .mbr-section-text {
+  letter-spacing: 0.03rem;
+}
+.cid-s5oBkv2Hej .btn {
+  margin-left: 4px !important;
+}
+.cid-s5oBkv2Hej .animated-element {
+  color: #ffffff;
+}
+.cid-s5oBkv2Hej .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #ffffff;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.cid-s5oBkv2Hej .mbr-section-subtitle {
   color: #ffffff;
 }
 .cid-s5oBlmMOXi {
